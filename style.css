@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body {
+    background: #07081A;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1700px;
+    height: 64px;
+    border-bottom: 1px solid #261C51;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.first {
+    width: 1040px;
+    height: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+    gap: 12px;
+}
+
+.cloudo {
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    margin-top: 7px;
+    display: flex;
+}
+
+.box {
+    display: flex;
+    gap: 16px;
+}
+
+#home { 
+    color: #8CE900;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+.classwhite {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+#white {
+    display: flex;
+    gap: 90px;
+    justify-content: center;
+    margin-top: 88px;
+    align-items: center;
+}
+
+#Best {
+    color: #FFF;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 52px;
+}
+
+#images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+#numbers {
+    display: flex;
+    width: 1040px;
+    padding: 40px 72px;
+    justify-content: space-between;
+    align-items: flex-start;
+    background: #242642;;
+    margin-top: 100px;
+}
+
+.number {
+    color: #8CE900;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 60px;
+}
+
+.project {
+    color: #C0C0C0;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.last {
+    width: 1040px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 300px;
+}
+
+#competed {
+    width: 226px;
+}
+
+.max {
+    display: flex;
+    gap: 12px;
+    margin-top: 50px;
+    width: 226px;
+}
+
+#Design {
+    color: #C0C0C0;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.colorgreen {
+    color: #8CE900;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    cursor: pointer;
+}
